@@ -7,4 +7,15 @@ Includes Diseases: Community-acquired pneumonia
 Symptoms: Inflammation
 
 
+![](https://github.com/Amankumar29/Pneumonia-detection-with-the-help-of-chest-X-ray/blob/master/download.jfif)
 
+## Infected (Pneumonia)                                                                                   
+
+![](https://github.com/Amankumar29/Pneumonia-detection-with-the-help-of-chest-X-ray/blob/master/person1_virus_6.jpeg)   
+
+## Normal
+
+![](https://github.com/Amankumar29/Pneumonia-detection-with-the-help-of-chest-X-ray/blob/master/IM-0001-0001.jpeg)     
+
+Made using Tensorflow 
+# Please ⭐ this Repository 👆 
